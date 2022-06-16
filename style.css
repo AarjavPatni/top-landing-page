@@ -19,3 +19,18 @@
 a {
     text-decoration: none;
 }
+
+.hero {
+    display: flex;
+}
+
+.hero .content p, .header {
+    font-size: 18px;
+    /* color: #E5E7EB; */
+}
+
+.hero .content h1 {
+    font-size: 48px;
+    font-weight: extra-bold;
+    /* color: #F9FAF8; */
+}
