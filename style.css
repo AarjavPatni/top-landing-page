@@ -11,7 +11,9 @@
 }
 
 .header .right {
+    display: flex;
     margin-left: auto;
+    gap: 15px;
 }
 
 a {
