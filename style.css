@@ -22,6 +22,7 @@ a {
 
 .hero {
     display: flex;
+    gap: 20px;
 }
 
 .hero .content p, .header {
@@ -33,4 +34,12 @@ a {
     font-size: 48px;
     font-weight: extra-bold;
     /* color: #F9FAF8; */
+}
+
+.hero .img {
+    width: 50%;
+}
+
+.hero .content {
+    width: 50%;
 }
