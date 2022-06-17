@@ -4,6 +4,7 @@
 
 .header {
     display: flex;
+    background-color: #1F2937;
 }
 
 .header .left {
@@ -23,21 +24,23 @@ a {
 .hero {
     display: flex;
     gap: 20px;
+    background-color: #1F2937;
 }
 
 .hero .content p, .header {
     font-size: 18px;
-    /* color: #E5E7EB; */
+    color: #E5E7EB;
 }
 
 .hero .content h1 {
     font-size: 48px;
     font-weight: extra-bold;
-    /* color: #F9FAF8; */
+    color: #F9FAF8;
 }
 
 .hero .img {
     width: 50%;
+    background-color: grey;
 }
 
 .hero .content {
