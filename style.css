@@ -71,3 +71,10 @@ a {
     font-size: 17px;
     font-weight: bold;
 }
+
+.info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px 0px 0px 20px;
+}
