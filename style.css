@@ -56,3 +56,14 @@ a {
 .hero .content {
     width: 50%;
 }
+
+.hero-btn {
+    height: 35px;
+    width: 110px;
+    border-radius: 8px;
+    background-color: #3882F6;
+    color: white;
+    border: none;
+    font-size: 17px;
+    font-weight: bold;
+}
