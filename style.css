@@ -57,6 +57,10 @@ a {
     width: 50%;
 }
 
+.hero-main {    
+    margin: 0;
+}
+
 .hero-btn {
     height: 35px;
     width: 110px;
