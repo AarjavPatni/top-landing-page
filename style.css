@@ -79,6 +79,12 @@ a {
     margin: 20px 0px 20px 0px;
 }
 
+.info h1 {
+    font-size: 36px;
+    font-weight: bold;
+    color: #1F2937
+}
+
 .info .container {
     display: flex;
     align-items: center;
