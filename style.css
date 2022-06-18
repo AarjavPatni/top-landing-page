@@ -17,6 +17,7 @@ body {
 
 .header .left {
     margin-right: auto;
+    font-weight: bold;
 }
 
 .header .right {
