@@ -125,7 +125,7 @@ a {
     padding: 150px 0px;
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 15px;
 }
 
 .quote p {
