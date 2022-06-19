@@ -78,13 +78,14 @@ a {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin: 25px 0px 25px 0px;
+    margin: 65px 0px 65px 0px;
 }
 
 .info h1 {
     font-size: 36px;
     font-weight: bold;
-    color: #1F2937
+    color: #1F2937;
+    margin: 0px;
 }
 
 .info .container {
@@ -110,4 +111,5 @@ a {
 
 .box p {
     width: 150px;
+    margin-bottom: 0;
 }
