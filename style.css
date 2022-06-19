@@ -7,8 +7,13 @@ body {
 }
 
 .header, .hero {
-    /* padding: 20px 400px 100px 400px; */
-    padding: 20px 100px 100px 100px;
+    padding: 20px 400px 100px 400px;
+}
+
+@media screen and (max-width: 1400px) {
+    .header, .hero {
+        padding: 20px 100px 100px 100px;
+    }
 }
 
 .header {
