@@ -144,3 +144,15 @@ a {
     font-weight: 300;
     font-style: italic;
 }
+
+.cta {
+    margin: 10% 15%;
+    background-color: #3882F6;
+    display: flex;
+    align-items: center;
+}
+
+.cta-content {
+    padding: 3% 15%;
+    color: white;
+}
