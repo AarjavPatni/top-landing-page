@@ -152,6 +152,7 @@ a {
     align-items: center;
     border-radius: 8px;
     justify-content: space-around;
+    max-width: 1000px;
 }
 
 .cta-content {
