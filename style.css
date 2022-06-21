@@ -146,13 +146,13 @@ a {
 }
 
 .cta {
-    margin: 10% 15%;
+    margin: 10% auto;
     background-color: #3882F6;
     display: flex;
     align-items: center;
     border-radius: 8px;
     justify-content: space-around;
-    max-width: 1000px;
+    max-width: 900px;
 }
 
 .cta-content {
